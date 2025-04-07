@@ -31,8 +31,8 @@ The codebase is organized with a clean modular structure:
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhiraman9012/Youtube_Pipline.git
-cd Youtube_Pipline
+git clone https://github.com/abhiraman9012/youtube.git
+cd youtube
 
 # Install dependencies
 pip install -r requirements.txt
@@ -65,8 +65,8 @@ This project is optimized for Google Colab. To run it in Colab:
 
 3. Clone the repository:
    ```python
-   !git clone https://github.com/abhiraman9012/Youtube_Pipline.git
-   %cd Youtube_Pipline
+   !git clone https://github.com/abhiraman9012/youtube.git
+   %cd youtube
    ```
 
 4. Install dependencies:
